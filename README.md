@@ -1,2 +1,1 @@
-# Jhownatas.github.io
-a personal site
+this is a site for my friend Jhownatas
